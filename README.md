@@ -1,0 +1,7 @@
+# match_community
+date
+team_name
+team_competitor_name
+team_goals
+team_competitor_goals
+venue
